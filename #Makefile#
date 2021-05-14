@@ -1,0 +1,4 @@
+inst
+all:
+	poetry install
+zzOB
